@@ -4,6 +4,8 @@
 
 - <b>Placeholder</b>
   - [Also Placeholder](https://youtu.be/dQw4w9WgXcQ)
+- <b>osTicket (Help Desk Ticketing System):</b>
+  - [Prerequisites and installation](https://github.com/DsosaH/osticket-prereqs)
 
 <h2>😊Connect with me:</h2>
 
