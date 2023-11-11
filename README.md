@@ -2,7 +2,8 @@
 
 <h2>🖥️👾 Information Technology Projects:</h2>
 
-- <b>Placeholder</b>
+- <b>Microsoft Azure</b>
+  - [Azure Basics: VMs, NSG and Network Protocoles](https://youtu.be/dQw4w9WgXcQ)
   - [Also Placeholder](https://youtu.be/dQw4w9WgXcQ)
 - <b>osTicket (Help Desk Ticketing System):</b>
   - [Prerequisites and installation](https://github.com/DsosaH/osticket-prereqs)
