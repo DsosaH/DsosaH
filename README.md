@@ -3,7 +3,7 @@
 <h2>🖥️👾 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Azure Basics: VMs, NSG and Network Protocols](https://youtu.be/dQw4w9WgXcQ)
+  - [Azure Basics: VMs, NSG and Network Protocols](https://github.com/DsosaH/AzureBasics)
   - [Using Azure to create an On-premises configiuration of Active Directory](https://youtu.be/dQw4w9WgXcQ)
 - <b>osTicket (Help Desk Ticketing System):</b>
   - [Prerequisites and installation](https://github.com/DsosaH/osticket-prereqs)
