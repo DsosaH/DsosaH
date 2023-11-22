@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Azure Basics: VMs, NSG and Network Protocols](https://github.com/DsosaH/AzureBasics)
-  - [Using Azure to create an On-premises configiuration of Active Directory](https://youtu.be/dQw4w9WgXcQ)
+  - [Using Azure to create an On-premises configiuration of Active Directory](https://github.com/DsosaH/activeDirectory)
 - <b>osTicket (Help Desk Ticketing System):</b>
   - [Prerequisites and installation](https://github.com/DsosaH/osticket-prereqs)
   - [Post-Installation Configuration](https://github.com/DsosaH/osticket-postconfg)
